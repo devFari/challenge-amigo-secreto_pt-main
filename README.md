@@ -60,6 +60,4 @@ Este é um simples **Jogo de Amigo Secreto** desenvolvido com **HTML, CSS e Java
 
 ---
 
-💡 **Dica:** Um README bem estruturado facilita o entendimento do projeto e ajuda outros desenvolvedores a colaborarem com seu código! 🚀
-
 
