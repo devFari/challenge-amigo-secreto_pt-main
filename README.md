@@ -54,7 +54,7 @@ Este é um simples **Jogo de Amigo Secreto** desenvolvido com **HTML, CSS e Java
 ---
 
 ## 👨‍💻 Autor
-📌 **Seu Nome**  
+📌 **Matheus H N Farias**  
 📌 [Seu GitHub](https://github.com/seu-usuario)  
 📌 [Seu LinkedIn](https://www.linkedin.com/in/seu-usuario)  
 
